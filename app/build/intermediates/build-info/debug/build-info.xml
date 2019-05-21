@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="26"
+    build-mode="COLD"
+    density="420dpi"
+    format="10"
+    plugin-version="3.4.0"
+    timestamp="1558412467769"
+    token="-7543609511522206351"
+    verifier="CLASS_ADDED" >
+
+    <task
+        name="javac"
+        duration="1371" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="124" />
+    <task
+        name="verifier"
+        duration="68" />
+
+    <artifact
+        location="C:\C346\Workspace\DemoDatabaseCRUD\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\C346\Workspace\DemoDatabaseCRUD\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\C346\Workspace\DemoDatabaseCRUD\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\C346\Workspace\DemoDatabaseCRUD\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\C346\Workspace\DemoDatabaseCRUD\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\C346\Workspace\DemoDatabaseCRUD\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\C346\Workspace\DemoDatabaseCRUD\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\C346\Workspace\DemoDatabaseCRUD\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\C346\Workspace\DemoDatabaseCRUD\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\C346\Workspace\DemoDatabaseCRUD\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        type="SPLIT" />
+
+    <build
+        build-mode="FULL"
+        timestamp="1558410439679"
+        verifier="MANIFEST_FILE_CHANGE" >
+        <artifact
+            location="C:\C346\Workspace\DemoDatabaseCRUD\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\C346\Workspace\DemoDatabaseCRUD\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\C346\Workspace\DemoDatabaseCRUD\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\C346\Workspace\DemoDatabaseCRUD\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\C346\Workspace\DemoDatabaseCRUD\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\C346\Workspace\DemoDatabaseCRUD\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\C346\Workspace\DemoDatabaseCRUD\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\C346\Workspace\DemoDatabaseCRUD\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\C346\Workspace\DemoDatabaseCRUD\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\C346\Workspace\DemoDatabaseCRUD\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\C346\Workspace\DemoDatabaseCRUD\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\C346\Workspace\DemoDatabaseCRUD\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\C346\Workspace\DemoDatabaseCRUD\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1558412467769"
+        verifier="CLASS_ADDED" >
+        <artifact
+            location="C:\C346\Workspace\DemoDatabaseCRUD\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\C346\Workspace\DemoDatabaseCRUD\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\C346\Workspace\DemoDatabaseCRUD\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\C346\Workspace\DemoDatabaseCRUD\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\C346\Workspace\DemoDatabaseCRUD\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\C346\Workspace\DemoDatabaseCRUD\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\C346\Workspace\DemoDatabaseCRUD\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\C346\Workspace\DemoDatabaseCRUD\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\C346\Workspace\DemoDatabaseCRUD\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\C346\Workspace\DemoDatabaseCRUD\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+    </build>
+
+</instant-run>
